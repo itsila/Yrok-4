@@ -5,6 +5,6 @@ public class Test {
         System.out.println("aaa");
 
         // задание 2
-
+        System.out.println();
     }
 }
